@@ -17,10 +17,6 @@
 ![Windows Badge](https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&labelColor=grey&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=android&labelColor=grey&logoColor=white)
 
-#### Languages
-
-![Python Badge](https://img.shields.io/badge/-python-blue?style=flat-square&logo=python&labelColor=grey&logoColor=white)
-
 #### Technologies
 
 ![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&labelColor=grey&logoColor=white)
@@ -29,14 +25,13 @@
 
 #### IDEs
 
-![Vim Badge](https://img.shields.io/badge/-vim-019733?style=flat-square&logo=vim&labelColor=grey&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=visual-studio-code&labelColor=grey&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/-pycharm-181717?style=flat-square&logo=pycharm&labelColor=grey&logoColor=white)
 
 ### GEARS
 
 #### Device
-- 💻 **Gigabyte G5-GD** (Intel Core I5 11400h / Nvidia GTX 3050l / 32GB DDR4 3200MHz / 2.4TB Total storage)
+- 💻 **HP Z440** (Intel Xeon E5-1650 V3 / AMD RX580 8GB / 64GB DDR4 3200MHz / 2.4TB Total storage)
 - 💻 **Raspberry Pi 3B+** (Broadcom BCM2837B0 / N/A / 1GB LPDDR2 / 32gb SD)
 - 📱 **Samsung S21+** (Qualcomm Snapdragon 888 / 8GB LPDDR5 / 128GB internal)
 - 📱 **Samsung A31** (Mediatek MT6768 Helio P65 / 4GB eMMC 5.1 / 128GB )
